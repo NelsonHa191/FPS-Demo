@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coin
+  - Object
+  - area
+  - safe
+  - area2
+  - area3
+  - Power
+  - Bullet
+  - Enemy
+  - Environment
+  - Pistol
+  - RPG
+  - RocketBullet
+  - treasure2
+  - treasure3
+  - treasure1
+  - AmmoBox
+  - EnemyBullet
+  - win
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - navMesh3
+  - navMesh2
+  - navMesh1
+  - whatIsGround
+  - whatIsNav
+  - whatIsEnemy
+  - whatIsBullet
+  - enemyBullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
